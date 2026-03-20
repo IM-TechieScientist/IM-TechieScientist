@@ -7,8 +7,7 @@ Most of my nights are spent figuring out why a rover is crawling at 0.2 m/s due 
 I like working at the intersection of hardware and software with bugs being beyond just logical but physical, expensive and occasionally on fire. (Me vs over volted capacitors is a never ending saga)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bfec49e4-3358-4e5c-acc6-3ca9ff1f263d" width="45%" />
-  <img src="https://github.com/user-attachments/assets/994618b2-3ff9-462e-943c-9fc4d104af6c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/994618b2-3ff9-462e-943c-9fc4d104af6c" width="30%" />
 </p>
 
 ---
@@ -17,7 +16,9 @@ I like working at the intersection of hardware and software with bugs being beyo
 
 Working in a highly interdisciplinary team with multiple domains to build a fully autonomous Mars rover.
 
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/1a4e3517-174f-4661-9f0a-f53858da0b52" />
+<p align="center">
+<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/1a4e3517-174f-4661-9f0a-f53858da0b52" />
+</p>
 
 Here's what I've built so far:
 ### Embedded Systems & Traversal Control
