@@ -3,7 +3,7 @@ Distributed Systems | Backend | Embedded | Robotics
 
 ### Hey there!
 
-Most of my nights are spent either debugging a rover that's crawling at 0.2 m/s because the timer ARR was wrong, or debugging a Kafka consumer that's crawling for entirely more boring reasons. I like working across the whole stack from an ISR to a distributed consensus protocol. I've made peace with the fact that on one side of my work a bug is a stack trace and on the other it's occasionally on fire. (Me vs over volted capacitors is a never-ending saga.)
+Most of my nights are spent either debugging a rover that's crawling at 0.2 m/s because the timer ARR was wrong, or debugging a Kafka consumer that's crawling for entirely more boring reasons. I like working across the whole stack from an ISR to a distributed consensus protocol. I've made peace with the fact that on one side of my work a bug is a stack trace and on the other it's occasionally on fire. (Me vs over volted capacitors is a never ending saga.)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/994618b2-3ff9-462e-943c-9fc4d104af6c" width="30%" />
@@ -98,7 +98,3 @@ Fault-tolerant distributed task scheduler implementing Raft consensus for leader
 **AI Tools**: Claude, OpenAI Codex, GitHub Copilot
 
 ---
-
-<p align="center">
-  <em>Bugs here aren't just logical — some of them are on fire.</em>
-</p>
